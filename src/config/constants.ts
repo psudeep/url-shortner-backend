@@ -1,0 +1,1 @@
+export const URL_EXPIRATION_DAYS = 30; // or whatever value you prefer
